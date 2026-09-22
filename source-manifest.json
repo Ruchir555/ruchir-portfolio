@@ -1,0 +1,167 @@
+{
+  "review_date": "2026-09-22",
+  "sources": {
+    "Traxis_HEP_Capstone": {
+      "tree": "50620521c65188ccc5113226d77e68af7f9909d6",
+      "files": [
+        {
+          "path": "traxis-1.0.2/traxis/calc/__init__.py",
+          "sha": "20bda1752fc3d1dbffde68318f3888d353117da7"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/calc/anglecalc.py",
+          "sha": "434eb8377afd02d18bbf9ce60f41b8dc0e0b9fb3"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/calc/circlefit.py",
+          "sha": "d382f8df52568e33674f3ea83024215fdf2d146f"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/calc/optdensity.py",
+          "sha": "70f1488e8aaa6bc63135aea1718cd27bbae51c2e"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/constants.py",
+          "sha": "5641bd76e94719dd4a1b67112bed99274d9c4a34"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/graphics/JSONHandler.py",
+          "sha": "c65840acafecd3f85ca304c212117d5d13eec1fc"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/graphics/angleref.py",
+          "sha": "984ef2562951c71830f5e417e9a899bae53636e2"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/graphics/fittedarc.py",
+          "sha": "18630c100d70106c44cb828183137f06a5a3ee44"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/graphics/markers.py",
+          "sha": "e0698e27107a6269b7fb9ec950ec63439fe8f230"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/graphics/tangent.py",
+          "sha": "5cc601871c687916100c94665aa8d9348ae13f38"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/gui/__init__.py",
+          "sha": "20bda1752fc3d1dbffde68318f3888d353117da7"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/gui/maingui.py",
+          "sha": "f75c465b0d3cdcde776692230de5f20dd49e029b"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/gui/mainwindow.py",
+          "sha": "ba0e3f369c4a36aa6ed32eaf47f8e4b06391cc31"
+        },
+        {
+          "path": "traxis-1.0.2/traxis/gui/skeleton.py",
+          "sha": "3a28f4da4b6fd8f1da223fe2379808977363872b"
+        }
+      ]
+    },
+    "AER201": {
+      "tree": "18acc31803fc7d86862864cfa11e6e958bc6e79c",
+      "files": [
+        {
+          "path": "QuantumVillageChallenge.ipynb",
+          "sha": "b9257afa8808ab85ec48b9d8d73f63be1c4a3652"
+        },
+        {
+          "path": "T_parameter_finder.ipynb",
+          "sha": "1797667d08a1e35edc3f24a2305d4a785359d941"
+        },
+        {
+          "path": "robot_arduino_program.ino",
+          "sha": "7e22dc7aa1e9a9d4ad067738a8d14931ebb33e02"
+        },
+        {
+          "path": "robot_pic_program.c",
+          "sha": "8cda9827810c9ab434de17b075254898f042d5c6"
+        }
+      ]
+    },
+    "IQST_2020_Graphene_Report": {
+      "tree": "6e8c4e51d1d341139ccf9ee0bd845dd646e20f91",
+      "files": [
+        {
+          "path": "Graphene Notes.tex",
+          "sha": "5e5a9e19e31b4e09499ad196b009aa5d258f4d6b"
+        },
+        {
+          "path": "abstract.tex",
+          "sha": "1246cf1095e05594480e7aed5d1069083f048f0c"
+        },
+        {
+          "path": "titlepage.tex",
+          "sha": "9a82783bd3f023da44742abaab7480f16b74892e"
+        }
+      ]
+    },
+    "State-Transfer-between-CV-Bosonic-Modes-and-Qubits": {
+      "tree": "d642e279bc1612fb2f0a41fb7eb2a1fb960e9c8d",
+      "files": [
+        {
+          "path": "T_parameter_finder.ipynb",
+          "sha": "6afdd02eda474161ec617636b0302568af6383bf"
+        }
+      ]
+    },
+    "dynamical-decoupling-sim": {
+      "tree": "0f96e85e83308716dc6623ca1a7d79d103a3b82f",
+      "files": [
+        {
+          "path": "src/bloch_sim.py",
+          "sha": "d7e4d35211d7516adf919a5b68f0723fd3b03bb8"
+        },
+        {
+          "path": "src/metrics.py",
+          "sha": "064cf82d7ec1a6e259415bc9502ac08b6fb22cf1"
+        },
+        {
+          "path": "src/run_benchmark.py",
+          "sha": "9bfd8f22d0d2ee0234f0b40cd5f5ffba3641b885"
+        },
+        {
+          "path": "src/sequences.py",
+          "sha": "e7b7ff7676745ee637de5dd6f3cb9a2d53e17d52"
+        }
+      ]
+    },
+    "Computational-Physics": {
+      "tree": "5edb23494d1d6eff18eee49ca156e47faaea9779",
+      "files": [
+        {
+          "path": "Computational_Physics.py",
+          "sha": "d528b28b58defeba51757aafb47e12958e19597c"
+        },
+        {
+          "path": "damped_oscillator.py",
+          "sha": "95bc9450ad3df33fa0f23c873136803825d5162d"
+        },
+        {
+          "path": "fibo.py",
+          "sha": "6fdab86e43eeb33ae721dfe59240a87540422d7b"
+        },
+        {
+          "path": "integration_methods.py",
+          "sha": "d1e2a1a972a175a8cdffdeebc093da7de100cdb1"
+        },
+        {
+          "path": "nanobeam_parameters.py",
+          "sha": "596e234903195f8fca82f92aa230de72ee8196d7"
+        },
+        {
+          "path": "number_base_conversions.py",
+          "sha": "85fccbb9951e25e4e995f2590ebebf47340b6131"
+        },
+        {
+          "path": "proper_divisors.py",
+          "sha": "7a696e1a2704dc05ea88dc9d45477df4ec8f17ce"
+        }
+      ]
+    }
+  }
+}

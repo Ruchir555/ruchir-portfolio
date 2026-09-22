@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="345.6pt" viewBox="0 0 576 345.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 345.6 
+L 576 345.6 
+L 576 0 
+L 0 0 
+z
+" style="fill: #101d32"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 79.6032 164.588544 
+L 221.2992 164.588544 
+Q 226.96704 164.588544 226.96704 159.94368 
+L 226.96704 109.62432 
+Q 226.96704 104.979456 221.2992 104.979456 
+L 79.6032 104.979456 
+Q 73.93536 104.979456 73.93536 109.62432 
+L 73.93536 159.94368 
+Q 73.93536 164.588544 79.6032 164.588544 
+z
+" clip-path="url(#p9e59fbbce0)" style="fill: #1b2e46; stroke: #70d7ee; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 79.6032 272.968704 
+L 221.2992 272.968704 
+Q 226.96704 272.968704 226.96704 268.32384 
+L 226.96704 218.00448 
+Q 226.96704 213.359616 221.2992 213.359616 
+L 79.6032 213.359616 
+Q 73.93536 213.359616 73.93536 218.00448 
+L 73.93536 268.32384 
+Q 73.93536 272.968704 79.6032 272.968704 
+z
+" clip-path="url(#p9e59fbbce0)" style="fill: #1b2e46; stroke: #70d7ee; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 311.04 272.968704 
+L 499.968 272.968704 
+Q 505.63584 272.968704 505.63584 268.32384 
+L 505.63584 218.00448 
+Q 505.63584 213.359616 499.968 213.359616 
+L 311.04 213.359616 
+Q 305.37216 213.359616 305.37216 218.00448 
+L 305.37216 268.32384 
+Q 305.37216 272.968704 311.04 272.968704 
+z
+" clip-path="url(#p9e59fbbce0)" style="fill: #1b2e46; stroke: #bcf277; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 311.04 164.588544 
+L 499.968 164.588544 
+Q 505.63584 164.588544 505.63584 159.94368 
+L 505.63584 109.62432 
+Q 505.63584 104.979456 499.968 104.979456 
+L 311.04 104.979456 
+Q 305.37216 104.979456 305.37216 109.62432 
+L 305.37216 159.94368 
+Q 305.37216 164.588544 311.04 164.588544 
+z
+" clip-path="url(#p9e59fbbce0)" style="fill: #1b2e46; stroke: #bcf277; stroke-width: 1.4; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(108.558075 131.376562)">Ultrasonic / IR</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(89.057138 144.813937)">Break-beam sensors</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(109.686825 239.756722)">Arduino Nano</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(95.437763 253.194097)">Sensor acquisition</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(369.570563 239.756722)">PIC18F4620</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(365.399625 253.194097)">Robot control</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(350.782125 131.376562)">Motors / actuators</text>
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #edf3fa" transform="translate(362.336813 144.813937)">Keypad + LCD</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 150.4512 165.813666 
+Q 150.4512 188.005239 150.4512 208.519762 
+" style="fill: none; stroke: #aebdd1; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 152.8512 203.719762 
+L 150.4512 208.519762 
+L 148.0512 203.719762 
+" style="fill: none; stroke: #aebdd1; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 230.381213 243.16416 
+Q 266.169048 243.16416 300.279832 243.16416 
+" style="fill: none; stroke: #aebdd1; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 295.479832 240.76416 
+L 300.279832 243.16416 
+L 295.479832 245.56416 
+" style="fill: none; stroke: #aebdd1; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 405.504 210.199134 
+Q 405.504 188.007561 405.504 167.493038 
+" style="fill: none; stroke: #aebdd1; stroke-width: 1.5; stroke-linecap: round"/>
+    <path d="M 403.104 172.293038 
+L 405.504 167.493038 
+L 407.904 172.293038 
+" style="fill: none; stroke: #aebdd1; stroke-width: 1.5; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #aebdd1" x="266.1696" y="223.81056" transform="rotate(-0 266.1696 223.81056)">I²C</text>
+   </g>
+  </g>
+  <g id="text_6">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #edf3fa" x="40.32" y="31.104" transform="rotate(-0 40.32 31.104)">Sensing meets control</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #aebdd1" x="40.32" y="58.752" transform="rotate(-0 40.32 58.752)">AER201 team project · architecture reconstructed from firmware</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9e59fbbce0">
+   <rect x="74.88" y="86.4" width="472.32" height="193.536"/>
+  </clipPath>
+ </defs>
+</svg>
