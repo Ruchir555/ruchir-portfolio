@@ -86,11 +86,11 @@ for i,(t,k) in enumerate(zip(ts,ks)):
     j=i+k-1; a,b=vec[i],vec[j]
     vec[i]=t*a+(1-t)*b;vec[j]=(1-t)*a+t*b;states.append(vec.copy())
 assert np.allclose(vec,[5,3,2]) and all(np.isclose(v.sum(),10) for v in states)
-fig,ax=canvas('Mixing toward a target','Two T-transformations · executed notebook example, normalised')
+fig,ax=canvas('Mixing toward a target','Two T-transformations · executed notebook example, normalized')
 x=np.arange(3)
 for i,(v,col) in enumerate(zip(states,[CYAN,'#b09af8',LIME])):
     ax.bar(x+(i-1)*.23,v/10,width=.21,color=col,label=['Initial','Step 1','Target'][i])
-ax.set(xticks=x,xticklabels=['1','2','3'],xlabel='Vector component',ylabel='Normalised weight',ylim=(0,.7))
+ax.set(xticks=x,xticklabels=['1','2','3'],xlabel='Vector component',ylabel='Normalized weight',ylim=(0,.7))
 ax.legend(frameon=False,ncol=3,fontsize=11)
 results['majorization']={'t':ts,'k':ks,'states':[v.tolist() for v in states]}
 save(fig,'majorization')
@@ -138,7 +138,7 @@ for eps in [-.25,-.12,.12,.25]:
     ax.plot(t,base+eps*np.sin(np.pi*t),color=CYAN,alpha=.55,lw=1.5)
 ax.plot(t,base,color=LIME,lw=3,label='Stationary path: free-particle example')
 ax.scatter([0,1],[.2,.8],color=LIME,zorder=5,s=45)
-ax.set(xlabel='Time',ylabel='Generalised coordinate',xticks=[0,1],xticklabels=['Initial','Final'],yticks=[])
+ax.set(xlabel='Time',ylabel='Generalized coordinate',xticks=[0,1],xticklabels=['Initial','Final'],yticks=[])
 ax.text(.45,.25,r'$\delta S = 0$',fontsize=25,color=LIME)
 ax.legend(frameon=False,loc='upper left',fontsize=10)
 save(fig,'notes')
